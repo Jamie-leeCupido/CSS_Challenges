@@ -1,0 +1,70 @@
+/*styling container*/
+.container{
+
+}
+
+.one{
+  height: 200px;
+  width:200px;
+  background-color: gold;
+  float:left;
+  margin: 10px;
+}
+
+.two{
+  height: 200px;
+  width:200px;
+  background-color:green;
+  float:left;
+  margin: 10px;
+}
+
+.three{
+  height: 200px;
+  width:200px;
+  background-color: red;
+  float:left;
+  margin: 10px;
+}
+
+.four{
+  height: 200px;
+  width:200px;
+  background-color: blue;
+  float: left;
+  margin: 10px
+}
+
+.one:hover{
+  background-color: maroon;
+}
+
+.two:hover{
+  background-color: orange;
+}
+
+.three:hover{
+  background-color: black;
+}
+
+.four:hover{
+  background-color: pink;
+}
+
+.one:active{
+  background-color: #B370B0;
+}
+
+.two:active{
+  background-color: #87255B;
+}
+
+.three:active{
+  background-color: #A6FFA1;
+  width:600px;
+}
+
+.four:active{
+  background-color: #0A014F;
+  width: 50px;
+}

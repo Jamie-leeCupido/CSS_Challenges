@@ -1,0 +1,78 @@
+/*applying selectors*/
+
+body{
+  background-image: url("newspaper_background.jpg");
+  background-repeat: repeat;
+  text-align: center;
+}
+
+
+h1{
+  color: maroon;
+  background-color: wheat;
+  padding: 10px;
+}
+
+.para{
+  color: brown;
+  font-size: 14px;
+  background-color: wheat;
+  padding: 10px;
+}
+
+.link{
+  background-color: wheat;
+  padding: 1px;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+.form{
+background-color: wheat;
+padding: 2px;
+}
+
+.container{
+  background-color: wheat;
+  padding: px;
+}
+
+#footer {
+  background-color: wheat;
+  padding: 5px;
+  position: fixed;
+  bottom: : 0;
+  width: 100%;
+  height: 50px;
+}
+
+
+
+nav li a {
+  text-decoration: none;
+}
+
+::placeholder{
+  color:brown;
+}
+
+select {
+  color: brown;
+}

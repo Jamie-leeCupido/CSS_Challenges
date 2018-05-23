@@ -1,0 +1,18 @@
+/*styling my first challenge*/
+
+body{
+  background-color: #C8FFBE;
+  margin-left: 5%;
+  font-family: 'Lora', serif;
+}
+
+
+.heading{
+ color: gold;
+ font-style: italic;
+}
+
+.heading1{
+ color: #D30C7B;
+ font-style: italic;
+}

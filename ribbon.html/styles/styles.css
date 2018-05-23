@@ -1,0 +1,34 @@
+body{
+  background-color: blue;
+}
+
+.container{
+  margin:auto;
+  width: 600px;
+  height:300px;
+  background-color: black;
+  overflow: hidden;
+
+}
+
+.ribbon{
+  background-color: gold;
+  text-align: center;
+  width: 200px;
+  position: relative;
+  top: 20px;
+  left: -50px;
+  line-height: 50px;
+  color: lime;
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+
+}
+
+.attract{
+  display: block;
+}
+
+.image {
+  text-align: center;
+}
